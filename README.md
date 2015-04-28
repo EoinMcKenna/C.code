@@ -1,2 +1,2 @@
 # C.code
-Ian is :dollar:
+Ian has lots of :dollar:
